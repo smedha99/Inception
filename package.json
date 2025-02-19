@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "hii this is namaste react series",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smedha99/Inception.git"
+  },
+  "author": "medha singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smedha99/Inception/issues"
+  },
+  "homepage": "https://github.com/smedha99/Inception#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
